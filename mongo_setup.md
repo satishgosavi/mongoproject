@@ -28,7 +28,7 @@ docker-compose up -d mongo
 docker ps
 
 # execute following command for the next time
-docker exec -it tracker-mongo-1 mongosh
+docker exec -it mongoproject-mongo-1 mongosh                   
 
 # In above command `tracker-mongo-1` should be name that reflects in `docker ps`
 ```
