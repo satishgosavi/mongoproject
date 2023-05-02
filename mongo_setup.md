@@ -30,7 +30,7 @@ docker ps
 # execute following command for the next time
 docker exec -it mongoproject-mongo-1 mongosh                   
 
-# In above command `tracker-mongo-1` should be name that reflects in `docker ps`
+# In above command `mongoproject-mongo-1` should be name that reflects in `docker ps`
 ```
 
 NOTE - 
